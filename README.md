@@ -2,7 +2,7 @@
 
 ![Language](https://img.shields.io/badge/language-C%2B%2B-blue)
 ![Platform](https://img.shields.io/badge/platform-LeetCode-orange)
-![Status](https://img.shields.io/badge/status-in%20progress-brightgreen)
+![Status](https://img.shields.io/badge/status-in_progress-brightgreen)
 
 A growing collection of my [LeetCode](https://leetcode.com) solutions in C++, organized by topic and following the [NeetCode](https://neetcode.io) roadmap. Every solution includes a short note on the approach and its time and space complexity.
 
